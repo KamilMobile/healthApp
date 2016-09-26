@@ -1,10 +1,12 @@
+
 {
-  "Status": [
+  "films": [
     {
-      "Name": "Marek Płonski",
-      "Status": Dom opieki "Senior",
+      "movie": "Marek Płonski",
+      "year": 2016,
+      "rating": 9,
       "image": "https://thumbs.dreamstime.com/thumblarge_1746/17463297.jpg",
-      "info": ""
+      "story": "„Głuchoniema Maddie żyje w odosobnieniu, w świecie ciszy. Gdy jej spokój zostaje zakłócony przez atak zamaskowanego psychopaty, zadziwia swoją wolą przetrwania."
     }
   ]
 }
