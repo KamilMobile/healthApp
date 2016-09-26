@@ -1,10 +1,11 @@
 {
-  "Status": [
-    {
-      "Name": "Marek Płonski",
-      "Status": Dom opieki "Senior",
-      "image": "https://thumbs.dreamstime.com/thumblarge_1746/17463297.jpg",
-      "info": ""
+  "films": [
+     {
+      "movie": "Piąta fala ",
+      "year": 2016,
+      "rating": 8,
+      "image": "http://ecsmedia.pl/c/piata-fala-b-iext34547227.jpg",
+      "story": "Po inwazji kosmitów nastolatka poszukuje zaginionego brata, który prawdopodobnie został porwany przez obcych."
     }
   ]
 }
